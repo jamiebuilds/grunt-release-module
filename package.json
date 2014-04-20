@@ -2,7 +2,7 @@
   "name": "grunt-release-module",
   "version": "0.0.0",
   "description": "Easily automate releases with Grunt",
-  "main": "tasks/grunt-release-module.js",
+  "main": "tasks/release.js",
   "scripts": {
     "test": "grunt test"
   },
