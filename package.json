@@ -1,0 +1,22 @@
+{
+  "name": "grunt-release-module",
+  "version": "0.0.0",
+  "description": "Easily automate releases with Grunt",
+  "main": "tasks/grunt-release-module.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejameskyle/grunt-release-module.git"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/grunt-release-module/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/grunt-release-module"
+}
